@@ -1,5 +1,6 @@
 ---
 title: "Compilers and Programming Languages at Utah"
+layout: main
 ---
 
 The Compilers and Programming Languages group at the University of
