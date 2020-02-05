@@ -1,0 +1,9 @@
+<svg width="340" height="160" viewBox="0 0 340 160" xmlns="http://www.w3.org/2000/svg">
+  <style>path { fill: #BA261A; fill-rule: evenodd; } .shadow { stroke: white; stroke-width: 8px; } </style>
+  <path class="shadow" d="M 10 10 m 20 0 h 70 v 40 h -30 v -10 h -30 v 40 h 30 v -10 h 30 v 40 h -70 l -20 -20 v -60 l 20 -20 z" />
+  <path class="shadow" d="M 110 10 h 80 l 20 20 v 60 l -20 20 h -40 v 10 h 10 v 30 h -50 v -30 h 10 v -80 h -10 v -30 z m 40 30 h 30 v 40 h -30 z" />
+  <path class="shadow" d="M 220 10 h 50 v 30 h -10 v 40 h 30 v -40 h -10 v -30 h 50 v 30 h -10 v 50 l -20 20 h -50 l -20 -20 v -50 h -10 v -30 z" />
+  <path d="M 10 10 m 20 0 h 70 v 40 h -30 v -10 h -30 v 40 h 30 v -10 h 30 v 40 h -70 l -20 -20 v -60 l 20 -20 z" />
+  <path d="M 110 10 h 80 l 20 20 v 60 l -20 20 h -40 v 10 h 10 v 30 h -50 v -30 h 10 v -80 h -10 v -30 z m 40 30 h 30 v 40 h -30 z" />
+  <path d="M 220 10 h 50 v 30 h -10 v 40 h 30 v -40 h -10 v -30 h 50 v 30 h -10 v 50 l -20 20 h -50 l -20 -20 v -50 h -10 v -30 z" />
+</svg>
