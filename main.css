@@ -2,9 +2,15 @@ html { font-size: 20px; line-height: 1.4; }
 body { max-width: 60ex; padding: 1ex; margin: 2em auto; }
 
 header { height: 4.5em; margin-bottom: 2em; border-bottom: 1px solid #BA261A; }
-header img { height: 6em; margin-bottom: -1.5em; }
+header img { height: 6em; margin-bottom: -1.5em; float: left; }
+header nav { overflow: auto; height: 4.5em; }
+header nav ul {
+    list-style: inside none; display: flex; margin: 0;
+    flex-flow: row wrap;
+    justify-content: flex-end; align-items: flex-end;
+}
 
 h1 { color: #BA261A; font-size: 1.25; margin: 1em 0 0; }
 
-.photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: wrap row; }
+.photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: row wrap; }
 .photo-list li { width: 12ex; height: 12ex; }
