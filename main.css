@@ -1,7 +1,7 @@
 html { font-size: 18px; line-height: 1.25; }
-body { max-width: 40rem; padding: 0.5rem; margin: 2em auto; }
+body { max-width: 60ex; padding: 1ex; margin: 2em auto; }
 
 h1 { color: #BA261A; font-size: 1.25; margin: 2em 0; }
 
-.photo-list { list-style: inside none; padding: 0; display: flex; flex-wrap: wrap; }
-.photo-list li { width: 10rem; height: 12rex; margin: 0; }
+.photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: wrap ltr; }
+.photo-list li { width: 12ex; height: 12ex; }
