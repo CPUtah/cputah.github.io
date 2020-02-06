@@ -8,6 +8,8 @@ Utah has a decade-long history of breakthrough research in
 compilation, static analysis, high-performance computing, formal
 methods, and parallelization.
 
+<div class="photo-list">
+
 # Faculty
 
 - Eric Eide
@@ -19,6 +21,12 @@ methods, and parallelization.
 - Zvonimir Rakamaric
 - John Regehr
 
+</div>
+
+<div class="photo-list">
+
 # Students
 
-...
+- ?
+
+</div>
