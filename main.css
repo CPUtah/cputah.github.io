@@ -3,5 +3,5 @@ body { max-width: 60ex; padding: 1ex; margin: 2em auto; }
 
 h1 { color: #BA261A; font-size: 1.25; margin: 1em 0 0; }
 
-.photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: wrap ltr; }
+.photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: wrap row; }
 .photo-list li { width: 12ex; height: 12ex; }
