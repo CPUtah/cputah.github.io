@@ -10,7 +10,7 @@ header nav ul {
     flex-flow: row wrap; justify-content: flex-end;
 }
 header nav li { margin: 0 0.5ex; }
-header nav li::last-child { margin-right: 0; }
+header nav li:last-child { margin-right: 0; }
 
 h1 { color: #BA261A; font-size: 1.25; margin: 1em 0 0; }
 
