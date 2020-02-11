@@ -9,10 +9,11 @@ header nav ul {
     height: 4.5em; align-items: flex-end;
     flex-flow: row wrap; justify-content: flex-end;
 }
-header nav li { margin: 0 0.5ex; }
+header nav li { margin: 0 0.5ex; font-size: 120%; }
 header nav li:last-child { margin-right: 0; }
 
 h1 { color: #BA261A; font-size: 1.25; margin: 1em 0 0; }
 
 .photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: row wrap; }
-.photo-list li { width: 12ex; height: 12ex; }
+.photo-list li { width: 15ex; height: 15ex; }
+.photo-list img { display: block; width: 100%; height: 100%; object-fit: cover; }
