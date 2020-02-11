@@ -11,7 +11,7 @@ methods, and parallelization.
 # Faculty
 
 {: .photo-list}
-- ![Eric Eide's photo](/photos/eedie.jpg)
+- ![Eric Eide's photo](/photos/eeide.jpg)
   Eric Eide
 - ![Matthew Flatt's photo](/photos/mflatt.jpg)
   Matthew Flatt

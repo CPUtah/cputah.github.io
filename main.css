@@ -15,5 +15,5 @@ header nav li:last-child { margin-right: 0; }
 h1 { color: #BA261A; font-size: 1.25; margin: 1em 0 0; }
 
 .photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: row wrap; }
-.photo-list li { width: 15ex; height: 15ex; }
-.photo-list img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.photo-list li { width: 15ex; }
+.photo-list img { display: block; width: 15ex; height: 15ex; object-fit: cover; }
