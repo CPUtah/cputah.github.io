@@ -3,7 +3,7 @@ title: "Compilers and Programming Languages at Utah"
 layout: main
 ---
 
-Compilers and Programming Languages at the University of
+Compilers and Programming Languages at the U. of
 Utah has a decade-long history of breakthrough research in
 compilation, static analysis, high-performance computing, formal
 methods, and parallelization.
