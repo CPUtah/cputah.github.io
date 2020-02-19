@@ -16,10 +16,10 @@ for email updates.
 - **31 Jan** *Rocco* on [Atomic Conditions](https://people.inf.ethz.ch/suz/publications/popl20.pdf)
 -  **7 Feb** *Oliver* on [Knuth-Bendix](https://academic.oup.com/comjnl/article/34/1/2/427931)
 - **14 Feb** *Manasij* on [Separation logic](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
-- **21 Feb** Cancelled
+- **21 Feb** Cancelled (visit days)
 - **28 Feb** Student TBD on [Serval](https://unsat.cs.washington.edu/papers/nelson-serval.pdf)
--  **6 Mar** Cancelled
-- **13 Mar** No seminar (spring break)
+-  **6 Mar** Cancelled (spring break)
+- **13 Mar** Cancelled (spring break)
 - **20 Mar** *Mark* on [Session Types](https://arxiv.org/abs/1902.00544.pdf)
 - **27 Mar** *Manasij* on [Bit-width-independence](https://arxiv.org/pdf/1905.10434.pdf)
 -  **3 Apr** *John* on [General deforestation](http://homepages.inf.ed.ac.uk/wadler/papers/deforest/deforest.ps)
