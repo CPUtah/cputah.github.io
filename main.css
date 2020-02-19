@@ -3,6 +3,20 @@
 html { font-size: 20px; line-height: 1.4; }
 body { max-width: 60ex; padding: 1ex; margin: 2em auto; }
 
+a { color: #204a87; text-decoration: none; }
+a:hover { color: #3465a4; text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans; font-weight: normal; color: #BA261A;
+    border-bottom: 1px solid currentColor; line-height: 1;
+    /* Cover up the underline under ink */
+    text-shadow: 2px 2px white, 2px -2px white, -2px 2px white, -2px -2px white;
+}
+
+h1 { font-size: 1.25; margin: 1em 0 0; }
+h2 { font-size: 1.20; margin: .75em 0 0; }
+h2 { font-size: 1.10; margin: .75em 0 0; }
+
 header { height: 4.5em; margin-bottom: 2em; border-bottom: 1px solid #BA261A; }
 header img { height: 6em; margin-bottom: -1.5em; float: left; }
 header nav { overflow: auto; }
@@ -16,17 +30,6 @@ header nav li:last-child { margin-right: 0; }
 header nav a { color: #BA261A; text-decoration: none; }
 header nav a:hover { color: #EF432A; text-decoration: underline; }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', sans; font-weight: normal; color: #BA261A;
-    border-bottom: 1px solid currentColor; line-height: 1;
-    /* Cover up the underline under ink */
-    text-shadow: 2px 2px white, 2px -2px white, -2px 2px white, -2px -2px white;
-}
-
-h1 { font-size: 1.25; margin: 1em 0 0; }
-h2 { font-size: 1.20; margin: .75em 0 0; }
-h2 { font-size: 1.10; margin: .75em 0 0; }
-
 .photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: row wrap; }
 .photo-list li { width: 25%; margin: 0; font-family: 'Open Sans', sans; height: calc(25%+2em); }
 .photo-list li.long { font-size: 75%; }
@@ -36,3 +39,11 @@ h2 { font-size: 1.10; margin: .75em 0 0; }
 }
 .photo-list a:hover { background: #eee; }
 .photo-list img { display: block; width: 125%; margin: -12.5% -12.5% 10%; object-fit: cover; }
+
+.schedule { list-style: none inside; padding: 0; color: #888; }
+.schedule li { margin: 1ex 0; }
+.schedule strong {
+    display: inline-block; width: 8ex; text-align: right; margin-right: 1ex;
+    font-weight: 200; font-family: sans-serif; color: #444;
+}
+.schedule em { color: black; font-style: normal; }

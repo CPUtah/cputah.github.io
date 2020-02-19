@@ -9,6 +9,7 @@ at 11:00 in the LCR*. Join [the mailing
 list](https://groups.google.com/forum/#!forum/uofu-scs-seminar/join)
 for email updates.
 
+{: .schedule }
 - **10 Jan** Organization meeting
 - **17 Jan** Group *Town Hall*
 - **24 Jan** *Harshitha* on [Nagini](http://pm.inf.ethz.ch/publications/getpdf.php?bibname=Own&id=EilersMueller18.pdf)
