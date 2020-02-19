@@ -6,9 +6,9 @@ layout: main
 CPU seminars cover recent research from our and other groups.
 
 {: .seminars}
-| [Software Correctness](scs/) | 11:00 Fri in MEB LCR |
-| High Performance | 10:45 Tue in MEB 3485 |
-| Functional Programming | 2:00 Mon in MEB 2485 |
+| [Software Correctness](scs/) | 11:00 Fri | MEB LCR |
+| High Performance | 10:45 Tue | MEB 3485 |
+| Functional Programming | 2:00 Mon | MEB 2485 |
 
 # Visitors
 
