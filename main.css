@@ -48,7 +48,6 @@ header nav a:hover { color: #EF432A; text-decoration: underline; }
 }
 .schedule em { color: black; font-style: normal; }
 
-.seminars { width: 100%; }
-.seminars td:first-child { font-weight: bold; }
+.seminars { width: 100%; font-family: 'Helvetica Neue', serif; }
 .seminars td:nth-child(2) { text-align: right; }
 .seminars td:nth-child(3) { text-align: right; }
