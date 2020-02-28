@@ -18,5 +18,5 @@ CPU seminars cover recent research from our and other groups.
 - **8 Jan** [Max Willsey](https://mwillsey.com) on [EGG](https://github.com/mwillsey/egg)
 - **11 Feb** [Martin Kellogg](https://homes.cs.washington.edu/~kelloggm/) on *Verifying Object Construction*
 - **26 Feb** *Mark* and *Ian* on *The Architecture of Gelpia*
-- **5 Mar** [James R. Wilcox](https://jamesrwilcox.com/) on *Verification with Transition Systems*
+- **5 Mar** [James R. Wilcox](https://jamesrwilcox.com/) on *Verifying Transition Systems*
 
