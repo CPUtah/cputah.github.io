@@ -20,12 +20,9 @@ for email updates.
 - **28 Feb** *William* on [Serval](https://unsat.cs.washington.edu/papers/nelson-serval.pdf)
 -  **6 Mar** Cancelled (spring break)
 - **13 Mar** Cancelled (spring break)
-- **20 Mar** *Mark* on [Session Types](https://arxiv.org/abs/1902.00544.pdf)
-- **27 Mar** *Manasij* on [Bit-width-independence](https://arxiv.org/pdf/1905.10434.pdf)
--  **3 Apr** *John* on [General deforestation](http://homepages.inf.ed.ac.uk/wadler/papers/deforest/deforest.ps)
-- **10 Apr** *Mariam* on [Verifying Message Passing](https://link.springer.com/chapter/10.1007/978-3-319-96142-2_23)
-- **17 Apr** *Thanson* on [MetaLibm](https://hal.archives-ouvertes.fr/hal-01513490/document)
-- **24 Apr** 
+
+{: .announce }
+Seminar is cancelled for the remainder of term due to the coronavirus.
 
 **Carry-over**:
 [Verifying Message Passing](https://link.springer.com/chapter/10.1007/978-3-319-96142-2_23),
