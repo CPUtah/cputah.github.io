@@ -5,41 +5,24 @@ layout: main
 
 Software Correctness Seminar covers major developments in formal
 verification, program analysis, and synthesis. We meet *every Friday
-at 11:00 in the LCR*. Join [the mailing
-list](https://groups.google.com/forum/#!forum/uofu-scs-seminar/join)
-for email updates.
+at 11:00 on Zoom*. Join us in #seminar-scs for updates.
 
 {: .schedule }
-- **10 Jan** Organization meeting
-- **17 Jan** Group *Town Hall*
-- **24 Jan** *Harshitha* on [Nagini](http://pm.inf.ethz.ch/publications/getpdf.php?bibname=Own&id=EilersMueller18.pdf)
-- **31 Jan** *Rocco* on [Atomic Conditions](https://people.inf.ethz.ch/suz/publications/popl20.pdf)
--  **7 Feb** *Oliver* on [Knuth-Bendix](https://academic.oup.com/comjnl/article/34/1/2/427931)
-- **14 Feb** *Manasij* on [Separation logic](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
-- **21 Feb** Cancelled (visit days)
-- **28 Feb** *William* on [Serval](https://unsat.cs.washington.edu/papers/nelson-serval.pdf)
--  **6 Mar** Cancelled (spring break)
-- **13 Mar** Cancelled (spring break)
+- **22 Jan** Organization meeting
+- **29 Jan** 
+-  **5 Feb** 
+- **12 Feb** 
+- **19 Feb** 
+- **26 Feb** 
+-  **5 Mar** 
+- **12 Mar** 
+- **19 Mar** 
+- **26 Mar** 
+-  **2 Apr** 
+-  **9 Apr** 
+- **16 Apr** 
+- **23 Apr** 
 
-{: .announce }
-Seminar is cancelled for the remainder of term due to the coronavirus.
-
-**Carry-over**:
-[Verifying Message Passing](https://link.springer.com/chapter/10.1007/978-3-319-96142-2_23),
-[Deterministic Reductions](https://ieeexplore.ieee.org/document/6545904)
-
-**Ganesh's Proposals**:
-[Bit-width-independent SMT](https://arxiv.org/pdf/1905.10434.pdf),
-[Automating Separation Logic Using SMT](http://www.cs.yale.edu/homes/piskac/papers/2013PiskacWiesZuffreySepLog.pdf),
-[Separation logic with linked lists](https://research.cs.wisc.edu/wpis/papers/tr1800.pdf),
-[FlyMC](https://ucare.cs.uchicago.edu/pdf/eurosys19-flyMC.pdf)
-
-**Pavel's Proposals**:
-[General deforestation](http://homepages.inf.ed.ac.uk/wadler/papers/deforest/deforest.ps),
-[MetaLibm](https://hal.archives-ouvertes.fr/hal-01513490/document),
-[Session Types](https://arxiv.org/abs/1902.00544.pdf),
-[Next 700 Semantics](https://drops.dagstuhl.de/opus/volltexte/2019/10552/pdf/LIPIcs-SNAPL-2019-9.pdf),
-[JS Inline Caches](http://iacoma.cs.uiuc.edu/iacoma-papers/pldi19_2.pdf)
+**Previous Interations**: [Spring 2020](sp20.html) [Fall 2019](fa19.html), [Spring 2009](sp09.html)
 
 
-**Previous Interations**: [Fall 2019](fa19.html), [Spring 2009](sp09.html)
