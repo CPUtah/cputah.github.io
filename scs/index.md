@@ -9,8 +9,8 @@ at 11:00 on Zoom*. Join us in #seminar-scs for updates.
 
 {: .schedule }
 - **22 Jan** Organization meeting
-- **29 Jan** *Calvin* on [Lean 4](https://leanprover.github.io/lean4/doc/)
--  **5 Feb** *John Ja.* on [GPUVerify](https://dl.acm.org/doi/10.1145/2384616.2384625)
+- **29 Jan** [Calvin][calvin-materials] on [Lean 4](https://leanprover.github.io/lean4/doc/)
+-  **5 Feb** [John Ja.][johnja-materials] on [GPUVerify](https://dl.acm.org/doi/10.1145/2384616.2384625)
 - **12 Feb** *John Jo.* on [Alive 2](https://llvm.org/devmtg/2019-10/slides/Lopes-Regehr-Alive2.pdf)
 - **19 Feb** *Oliver* on [Perceus](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf)
 - **26 Feb** *Saeed* on *Golang Concurrency*
@@ -22,6 +22,9 @@ at 11:00 on Zoom*. Join us in #seminar-scs for updates.
 -  **9 Apr** 
 - **16 Apr** 
 - **23 Apr** 
+
+[calvin-materials]: https://git.sr.ht/~pounce/demo/tree
+[johnja-materials]: https://docs.google.com/presentation/d/1460818s88OeV18rKFda8aqDDOCJlQ7rgzS4esulCJ3Y/edit?usp=sharing
 
 **Previous Interations**: [Spring 2020](sp20.html), [Fall 2019](fa19.html), [Spring 2009](sp09.html)
 
