@@ -20,8 +20,8 @@ at 11:00 on Zoom*. Join us in #seminar-scs for updates.
 - **26 Mar** *Xinyi* on [Tensorfuzz](http://proceedings.mlr.press/v97/odena19a.html)
 -  **2 Apr** *Yo* on [Space efficiency](https://dl.acm.org/doi/pdf/10.1145/3434299)
 -  **9 Apr** *Eric* on *Linearizability*
-- **16 Apr** [Krishnathan][krish] on TBD
-- **23 Apr** 
+- **16 Apr** 
+- **23 Apr** [Krishnathan][krish] on TBD
 
 [krish]: https://kirshanthans.github.io
 [calvin-materials]: https://git.sr.ht/~pounce/demo/tree
