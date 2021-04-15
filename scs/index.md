@@ -21,7 +21,7 @@ at 11:00 on Zoom*. Join us in #seminar-scs for updates.
 -  **2 Apr** [Yo][yo-materials] on [Space efficiency](https://dl.acm.org/doi/pdf/10.1145/3434299)
 -  **9 Apr** *Eric* on *Linearizability*
 - **16 Apr** 
-- **23 Apr** [Krishanthan][krish] on TBD
+- **23 Apr** [Krishanthan][krish] on Recursion Transformations
 
 [krish]: https://kirshanthans.github.io
 [calvin-materials]: https://git.sr.ht/~pounce/demo/tree
