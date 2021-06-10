@@ -26,7 +26,7 @@ at 11:00 on Zoom*. Join us in #seminar-scs for updates.
 [krish]: https://kirshanthans.github.io
 [calvin-materials]: https://git.sr.ht/~pounce/demo/tree
 [johnja-materials]: https://docs.google.com/presentation/d/1460818s88OeV18rKFda8aqDDOCJlQ7rgzS4esulCJ3Y/edit?usp=sharing
-[yo]: https://drive.google.com/file/d/1a4Sr70hJpEIO4LeKUKYvzRZnl5VLihvf/view?usp=sharing
+[yo-materials]: https://drive.google.com/file/d/1a4Sr70hJpEIO4LeKUKYvzRZnl5VLihvf/view?usp=sharing
 
 **Previous Interations**: [Spring 2020](sp20.html), [Fall 2019](fa19.html), [Spring 2009](sp09.html)
 
